@@ -1,0 +1,4 @@
+terraform.tfstate*
+.terraform.lock.hcl
+AWSCLIV2.pkg
+.terraform
